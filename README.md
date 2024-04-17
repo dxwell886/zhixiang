@@ -2,7 +2,7 @@
 
 ### 1.依赖
 
-1.安装python并设置环境变量（或者通过清华镜像源下载anaconda2020.2速度更快）
+1.安装python并设置环境变量（或者通过清华镜像源下载anaconda2020.2速度更快https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2020.02-Windows-x86_64.exe）
 
 2.安装以下python包
 
