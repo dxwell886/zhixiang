@@ -29,7 +29,7 @@ count = 0
 error_count = 0
 while True:
     pyautogui.moveTo(1005, 541)
-    pyautogui.vscroll(10)
+    pyautogui.vscroll(-10)
 
     get_screenshot(1232, 258, 1280, 285, file_name="ok_position")
     with open("ok_position.png", 'rb') as f:
@@ -69,5 +69,5 @@ while True:
         break
     count += 1    
     if count % 20 == 0:
-        pyautogui.vscroll(-190)   
+        pyautogui.vscroll(150)   
     time.sleep(sleep_second)
