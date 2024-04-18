@@ -2,7 +2,7 @@
 
 ### 1.依赖
 
-1.通过清华镜像源下载anaconda2020.2，https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2020.02-Windows-x86_64.exe，安装的时候勾选 add to path）
+1.通过清华镜像源下载anaconda2020.2， https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2020.02-Windows-x86_64.exe 安装的时候勾选 add to path）
 
 2.打开命令行安装以下python包
 
