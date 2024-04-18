@@ -67,6 +67,7 @@ while True:
 
     if time.time() - init_time > PROGRAM_TIMES:
         break
+    count += 1    
     if count % 20 == 0:
-        pyautogui.vscroll(-190)
+        pyautogui.vscroll(-190)   
     time.sleep(sleep_second)
