@@ -22,4 +22,4 @@ pip install numpy==1.21.6 -i https://mirror.baidu.com/pypi/simple
 
 3.命令行运行main.py，最小化命令行页面
 
-4.点悬浮小浮标断开连接
+4.点悬浮小浮标断开连接，退出天工云，后台会一直运行
