@@ -18,6 +18,8 @@ pip install numpy==1.21.6 -i https://mirror.baidu.com/pypi/simple
 
 1.打开知享网，手动登录
 
-2.随便打开一个课程，全屏浏览器
+2.随便打开一个课程，全屏天工云，右上角
 
 3.命令行运行main.py，最小化命令行页面
+
+4.点悬浮小浮标断开连接
